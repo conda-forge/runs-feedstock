@@ -1,5 +1,5 @@
 {% set name = "runs" %}
-{% set version = "1.2.2" %}
+{% set version = "1.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/runs-{{ version }}.tar.gz
-  sha256: 9dc1815e2895cfb3a48317b173b9f1eac9ba5549b36a847b5cc60c3bf82ecef1
+  sha256: cca304b631dbefec598c7bfbcfb50d6feace6d3a968734b67fd42d3c728f5a05
 
 build:
   noarch: python
