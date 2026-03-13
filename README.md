@@ -7,7 +7,7 @@ Home: https://github.com/rec/runs
 
 Package license: MIT
 
-Summary: 🏃 Run a block of text as a subprocess 🏃
+Summary: 🏃 Run a block of text as a subprocess  🏃
 
 Current build status
 ====================
